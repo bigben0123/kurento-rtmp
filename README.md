@@ -6,7 +6,7 @@ You can browse https://1029.mythkast.net to test this demo.
 
 ![image](https://github.com/godka/kurento-rtmp/raw/master/img/rtp.png)
 
-![image](https://github.com/bigben0123/kurento-rtmp/blob/master/webrtc%20from%20rtp%20to%20rtmp.png)
+![](https://github.com/bigben0123/kurento-rtmp/blob/master/webrtc%20from%20rtp%20to%20rtmp.png)
 The pipeline of the work is described as follows:
 
 ```
